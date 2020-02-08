@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Get notified whenever an anime you are following releases a new episode!",
   "author": "Pedro Ramos González",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
 }
