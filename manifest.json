@@ -1,0 +1,21 @@
+{
+  "author": "Pedro Ramos González",
+  "homepage_url": "https://github.com/Pedrobusou",
+  "name": "__MSG_extName__",
+  "description": "__MSG_extDescription__",
+  "version": "1.0.0",
+  "default_locale": "es",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "browser_action": {
+    "default_popup": "src/html/popup.html"
+  },
+  "background": {
+    "persistent": false,
+    "scripts": ["src/js/background.js"]
+  }
+}

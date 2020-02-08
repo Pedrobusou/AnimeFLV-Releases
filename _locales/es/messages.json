@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "AnimeFLV Releases",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Get notified whenever an anime you are following releases a new episode!",
+    "description": "Extension description"
+  }
+}
