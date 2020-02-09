@@ -7,9 +7,9 @@
   "default_locale": "es",
   "manifest_version": 2,
   "icons": {
-    "16": "icon.png",
-    "48": "icon.png",
-    "128": "icon.png"
+    "16": "img/icon.png",
+    "48": "img/icon.png",
+    "128": "img/icon.png"
   },
   "browser_action": {
     "default_popup": "src/html/popup.html"
