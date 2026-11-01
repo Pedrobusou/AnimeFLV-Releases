@@ -8,6 +8,6 @@
     "scrap": "node scrapers/home.js"
   },
   "dependencies": {
-    "puppeteer": "^24.37.5"
+    "puppeteer": "^25.16.0"
   }
 }
